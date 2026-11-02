@@ -103,11 +103,3 @@ B.S. in Computer Engineering · Mar 2020 – Feb 2027 (Expected)
 <sub>Relevant coursework: Software Engineering, Operating Systems, Databases, Computer Networks.</sub>
 
 ---
-
-<div align="center">
-
-**Build, learn, and solve the next problem.**
-
-<a href="https://ohnoegg.github.io">Website</a> &nbsp;·&nbsp; <a href="mailto:ohnoegg.k@gmail.com">Email</a>
-
-</div>
