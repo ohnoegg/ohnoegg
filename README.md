@@ -35,54 +35,6 @@ During **nine months as a startup co-founder (Jan–Sep 2026)**, I worked across
 
 I also pursue independent software products through **DevIT**. My current interests are **AI agents, multimodal search, and end-to-end product engineering**—especially the intersection of model capabilities and reliable user-facing systems.
 
-## Featured Projects
-
-### 01 · 모두닥터 (ModuDoctor)
-
-![Personal Project](https://img.shields.io/badge/Personal%20Project-334155?style=flat-square)
-![2026.09–2026.10](https://img.shields.io/badge/2026.09%E2%80%932026.10-64748B?style=flat-square)
-
-**AI-assisted hospital discovery and comparison**
-
-Finding the right hospital often requires checking location, specialty, and opening hours across multiple sources. I built a service to simplify that process.
-
-- Built a hospital dataset using **public healthcare data** and connected it to a web application.
-- Implemented an **AI agent that interprets natural-language requests** as hospital search conditions.
-- Defined comparison criteria to help users review multiple hospitals side by side.
-
-**Stack:** `Next.js` · `Django` · `PostgreSQL` · `LangChain` · `Docker Compose`
-
-### 02 · Commerce Vision Search Engine
-
-![Personal Project](https://img.shields.io/badge/Personal%20Project-334155?style=flat-square)
-![2026.09–2026.10](https://img.shields.io/badge/2026.09%E2%80%932026.10-64748B?style=flat-square)
-
-**Multimodal product search with images, natural language, and AI agents**
-
-Inspired by existing e-commerce search experiences, I translated product-discovery problems into engineering requirements and developed a search application to explore practical computer vision.
-
-- Built a **data collection and preprocessing pipeline**, Python API server, frontend, and database.
-- Connected a **natural-language agent** to product-search functions.
-- Designed a workflow linking **retrieval, evaluation, and failure-case analysis** to guide search quality improvements.
-
-**Stack:** `React` · `Vite` · `FastAPI` · `PostgreSQL` · `LangChain` · `PyTorch` · `Docker Compose`
-
-### 03 · 꽃동네 (Kkotdongnae)
-
-![Team Lead](https://img.shields.io/badge/Team%20Lead-0369A1?style=flat-square)
-![3-person Team](https://img.shields.io/badge/3--person%20Team-334155?style=flat-square)
-![2026.03–Present](https://img.shields.io/badge/2026.03%E2%80%93Present-64748B?style=flat-square)
-
-**Local flower-shop discovery powered by conversational AI**
-
-Flower-shop details are scattered across maps and social platforms, making discovery and inquiries cumbersome. Our team set out to make local florist information easier to find.
-
-- Led a **three-person development team**, defining requirements, milestones, and interface contracts between frontend and backend.
-- Helped establish a nationwide florist discovery dataset spanning **17 regions and 17,769 flower shops**.
-- Developed a **LangGraph-based conversational agent** that lets users explore shops through dialogue instead of navigating every screen manually.
-
-**Stack:** `Flutter` · `Django` · `PostgreSQL` · `LangChain` · `LangGraph` · `Docker Compose`
-
 ## Experience
 
 ### Co-founder · Software Engineering & Operations
