@@ -35,16 +35,6 @@ During **nine months as a startup co-founder (Jan–Sep 2026)**, I worked across
 
 I also pursue independent software products through **DevIT**. My current interests are **AI agents, multimodal search, and end-to-end product engineering**—especially the intersection of model capabilities and reliable user-facing systems.
 
-## Experience
-
-### Co-founder · Software Engineering & Operations
-
-**Agent-driven e-commerce startup** &nbsp;·&nbsp; Jan 2026 – Sep 2026
-
-- Co-founded an e-commerce platform and took responsibility for **software development and technical operations**.
-- Planned and built a core **AI shopping agent** for product discovery and recommendations based on users' preferences and context.
-- Worked across product planning, implementation, deployment, and operations, making engineering trade-offs under rapidly changing requirements.
-
 ## Tech Stack
 
 <sub>Technologies used in projects and hands-on development. Grouped by domain rather than proficiency level.</sub>
